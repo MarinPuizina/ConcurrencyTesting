@@ -6,4 +6,5 @@ I have came up by myself.
 
 ThreadInterrupt --> One of the examples of how to interrupt a thread.   
 CancellingTaskUsingFuture --> Using Future to cancel task if it is not finished.   
-ExecutorShutdown --> Preferred way to shutdown executors.
+ExecutorShutdown --> Preferred way to shutdown executors.   
+TrackCancelledTasksAfterShutdown --> Example of how to track cancelled tasks after using .shutdown()
